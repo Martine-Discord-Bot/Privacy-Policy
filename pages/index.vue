@@ -41,28 +41,28 @@
               <ol>
                 <li>
                   <a
-                    href="/#what-data-do-Martine-collects-about-you"
-                  >What data do Martine collects about you</a>
+                    href="/#what-data-does-Martine-collects-about-you"
+                  >What data does Martine collects about you</a>
                 </li>
                 <li>
-                  <a href="/#how-do-we-use-your-data">How do we use your data</a>
+                  <a href="/#how-we-use-your-data">How we use your data</a>
                 </li>
                 <li>
                   <a href="/#how-to-request-your-data-removal">How to request your data removal</a>
                 </li>
               </ol>
-              <h2 id="what-data-do-martine-collects-about-you">
+              <h2 id="what-data-does-martine-collects-about-you">
                 <a
-                  href="/#what-data-do-Martine-collects-about-you"
-                >What data do Martine collects about you</a>
+                  href="/#what-data-does-Martine-collects-about-you"
+                >What data does Martine collects about you</a>
               </h2>
-              <p>Martine collect some amount of data about users for the bot's normal operations. Which is in particular the ID your user is assigned by Discord. Linked to a handful of things depending on what you interact with in the bot.</p>
-              <h2 id="how-do-we-use-your-data">
-                <a href="/#how-do-we-use-your-data">How do we use your data</a>
+              <p>Martine collects some amount of data about users for the bot's normal operation. Specifically, this is the ID of your Discord user account, which is linked to a handful of things depending on how you interact with the bot.</p>
+              <h2 id="how-we-use-your-data">
+                <a href="/#how-we-use-your-data">How we use your data</a>
               </h2>
               <p>
-                It is used so the bot can take the appropriate actions and respect settings that has been set.
-                Such as: any user or server setting that you configure through the bot, moderation actions against your Discord account if enabled in a server where the bot is in, any interaction with the bot that requires to store your Discord user ID.
+                Discord IDs can be stored so that the bot can take a appropriate actions for specific users and respect settings that have been set.
+                Such as: any user or server setting that you configure through the bot, moderation actions against your Discord account if enabled in a server where the bot is in, or any interaction with the bot that requires storing your Discord user ID.
               </p>
               <p>See <a href="https://discord.com/privacy">Discord Privacy Policy</a> for more information about your Discord data.</p>
               <h2 id="how-to-request-your-data-removal">
