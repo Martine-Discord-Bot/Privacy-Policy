@@ -64,7 +64,7 @@
                 It is used so the bot can take the appropriate actions and respect settings that has been set.
                 Such as: any user or server setting that you configure through the bot, moderation actions against your Discord account if enabled in a server where the bot is in, any interaction with the bot that requires to store your Discord user ID.
               </p>
-              <p>See Discord Privacy Policy for more information about your Discord data.</p>
+              <p>See <a href="https://discord.com/privacy">Discord Privacy Policy</a> for more information about your Discord data.</p>
               <h2 id="how-to-request-your-data-removal">
                 <a href="/#how-to-request-your-data-removal">How to request your data removal</a>
               </h2>
