@@ -1,0 +1,16 @@
+theme: minima
+
+siteConfig:
+  url: https://privacy.martinethebot.com
+  title: Martine - Privacy Policy
+  author: Predä - 10/08/2020
+
+themeConfig:
+  nav:
+    - text: Home
+      link: /
+
+plugins:
+  - resolve: saber-plugin-query-posts
+    options:
+      atomFeed: false

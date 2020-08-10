@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d public -t",
+    "dev": "saber",
+    "build": "saber build"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0",
+    "saber": "latest",
+    "saber-plugin-feed": "latest",
+    "saber-plugin-query-posts": "latest",
+    "saber-theme-minima": "latest"
+  },
+  "dependencies": {
+    "saber-theme-tailsaw": "^1.4.3"
+  }
+}
